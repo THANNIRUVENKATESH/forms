@@ -1,0 +1,38 @@
+.container{
+    border:  2px solid black;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    margin: 50px auto;
+    background-color: rgb(174, 168, 168);
+    color: white;
+}
+h1{
+    color: rgb(150, 24, 87);
+}
+button{
+    padding: 7px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightblue;
+}
+label{
+    color:black;
+}
+body{
+    background-color: black;
+}
+
+.cont1{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    color:black;
+    background-color: rgb(119, 119, 192);
+    margin: 50px auto;
+}
+#result{
+    margin-top: 50px;
+    text-align: center;
+}
